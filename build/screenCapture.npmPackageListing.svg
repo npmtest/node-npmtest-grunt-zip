@@ -1,0 +1,92 @@
+<svg height="1422" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1422" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 02:24:42 +0000  1010972 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 02:24:42 +0000      954 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 02:24:42 +0000      729 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 02:24:42 +0000     1056 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 02:24:42 +0000     7273 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 02:24:42 +0000       66 bytes  bin/grunt-zip</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 02:24:42 +0000      310 bytes  docs/Gruntfile.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 02:24:42 +0000      234 bytes  docs/file/to/extract.zip</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 02:24:42 +0000     2663 bytes  package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 02:24:42 +0000     5659 bytes  tasks/zip.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 02:24:42 +0000      319 bytes  test/Gruntfile.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 02:24:42 +0000        5 bytes  test/expected/cwd_zip/unzip/hello.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 02:24:42 +0000        8 bytes  test/expected/cwd_zip/unzip/nested2/hello10.txt</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 02:24:42 +0000       41 bytes  test/expected/image_zip/unzip/test_files/smile.g\</tspan>
+<tspan x="10" y="250">if</tspan>
+<tspan x="10" y="266"> 14.  2017-04-18 02:24:42 +0000      403 bytes  test/expected/multi_zip/file.zip</tspan>
+<tspan x="10" y="282"> 15.  2017-04-18 02:24:42 +0000    21751 bytes  test/expected/nested_unzip/bootstrap/css/bootstr\</tspan>
+<tspan x="10" y="298">ap-responsive.css</tspan>
+<tspan x="10" y="314"> 16.  2017-04-18 02:24:42 +0000    16553 bytes  test/expected/nested_unzip/bootstrap/css/bootstr\</tspan>
+<tspan x="10" y="330">ap-responsive.min.css</tspan>
+<tspan x="10" y="346"> 17.  2017-04-18 02:24:42 +0000   124223 bytes  test/expected/nested_unzip/bootstrap/css/bootstr\</tspan>
+<tspan x="10" y="362">ap.css</tspan>
+<tspan x="10" y="378"> 18.  2017-04-18 02:24:42 +0000   103314 bytes  test/expected/nested_unzip/bootstrap/css/bootstr\</tspan>
+<tspan x="10" y="394">ap.min.css</tspan>
+<tspan x="10" y="410"> 19.  2017-04-18 02:24:42 +0000     8777 bytes  test/expected/nested_unzip/bootstrap/img/glyphic\</tspan>
+<tspan x="10" y="426">ons-halflings-white.png</tspan>
+<tspan x="10" y="442"> 20.  2017-04-18 02:24:42 +0000    12799 bytes  test/expected/nested_unzip/bootstrap/img/glyphic\</tspan>
+<tspan x="10" y="458">ons-halflings.png</tspan>
+<tspan x="10" y="474"> 21.  2017-04-18 02:24:42 +0000    58516 bytes  test/expected/nested_unzip/bootstrap/js/bootstra\</tspan>
+<tspan x="10" y="490">p.js</tspan>
+<tspan x="10" y="506"> 22.  2017-04-18 02:24:42 +0000    31596 bytes  test/expected/nested_unzip/bootstrap/js/bootstra\</tspan>
+<tspan x="10" y="522">p.min.js</tspan>
+<tspan x="10" y="538"> 23.  2017-04-18 02:24:42 +0000    12799 bytes  test/expected/nested_zip/unzip/test_files/nested\</tspan>
+<tspan x="10" y="554">/glyphicons-halflings.png</tspan>
+<tspan x="10" y="570"> 24.  2017-04-18 02:24:42 +0000        5 bytes  test/expected/nested_zip/unzip/test_files/nested\</tspan>
+<tspan x="10" y="586">/hello.js</tspan>
+<tspan x="10" y="602"> 25.  2017-04-18 02:24:42 +0000        8 bytes  test/expected/nested_zip/unzip/test_files/nested\</tspan>
+<tspan x="10" y="618">/nested2/hello10.txt</tspan>
+<tspan x="10" y="634"> 26.  2017-04-18 02:24:42 +0000        2 bytes  test/expected/nested_zip/unzip/test_files/nested\</tspan>
+<tspan x="10" y="650">/nested2/hello20.js</tspan>
+<tspan x="10" y="666"> 27.  2017-04-18 02:24:42 +0000        5 bytes  test/expected/nested_zip/unzip/test_files/nested\</tspan>
+<tspan x="10" y="682">/world.txt</tspan>
+<tspan x="10" y="698"> 28.  2017-04-18 02:24:42 +0000    21751 bytes  test/expected/router_unzip/bootstrap-responsive.\</tspan>
+<tspan x="10" y="714">css</tspan>
+<tspan x="10" y="730"> 29.  2017-04-18 02:24:42 +0000    16553 bytes  test/expected/router_unzip/bootstrap-responsive.\</tspan>
+<tspan x="10" y="746">min.css</tspan>
+<tspan x="10" y="762"> 30.  2017-04-18 02:24:42 +0000   124223 bytes  test/expected/router_unzip/bootstrap.css</tspan>
+<tspan x="10" y="778"> 31.  2017-04-18 02:24:42 +0000    58516 bytes  test/expected/router_unzip/bootstrap.js</tspan>
+<tspan x="10" y="794"> 32.  2017-04-18 02:24:42 +0000   103314 bytes  test/expected/router_unzip/bootstrap.min.css</tspan>
+<tspan x="10" y="810"> 33.  2017-04-18 02:24:42 +0000    31596 bytes  test/expected/router_unzip/bootstrap.min.js</tspan>
+<tspan x="10" y="826"> 34.  2017-04-18 02:24:42 +0000     8777 bytes  test/expected/router_unzip/glyphicons-halflings-\</tspan>
+<tspan x="10" y="842">white.png</tspan>
+<tspan x="10" y="858"> 35.  2017-04-18 02:24:42 +0000    12799 bytes  test/expected/router_unzip/glyphicons-halflings.\</tspan>
+<tspan x="10" y="874">png</tspan>
+<tspan x="10" y="890"> 36.  2017-04-18 02:24:42 +0000        5 bytes  test/expected/router_zip/unzip/hello.js</tspan>
+<tspan x="10" y="906"> 37.  2017-04-18 02:24:42 +0000        8 bytes  test/expected/router_zip/unzip/hello10.txt</tspan>
+<tspan x="10" y="922"> 38.  2017-04-18 02:24:42 +0000        6 bytes  test/expected/single_unzip/a.js</tspan>
+<tspan x="10" y="938"> 39.  2017-04-18 02:24:42 +0000       38 bytes  test/expected/single_unzip/b.js</tspan>
+<tspan x="10" y="954"> 40.  2017-04-18 02:24:42 +0000      260 bytes  test/expected/single_zip/file.zip</tspan>
+<tspan x="10" y="970"> 41.  2017-04-18 02:24:42 +0000     8777 bytes  test/expected/skip_files_unzip/bootstrap/img/gly\</tspan>
+<tspan x="10" y="986">phicons-halflings-white.png</tspan>
+<tspan x="10" y="1002"> 42.  2017-04-18 02:24:42 +0000    12799 bytes  test/expected/skip_files_unzip/bootstrap/img/gly\</tspan>
+<tspan x="10" y="1018">phicons-halflings.png</tspan>
+<tspan x="10" y="1034"> 43.  2017-04-18 02:24:42 +0000    58516 bytes  test/expected/skip_files_unzip/bootstrap/js/boot\</tspan>
+<tspan x="10" y="1050">strap.js</tspan>
+<tspan x="10" y="1066"> 44.  2017-04-18 02:24:42 +0000    31596 bytes  test/expected/skip_files_unzip/bootstrap/js/boot\</tspan>
+<tspan x="10" y="1082">strap.min.js</tspan>
+<tspan x="10" y="1098"> 45.  2017-04-18 02:24:42 +0000        5 bytes  test/expected/skip_files_zip/unzip/test_files/ne\</tspan>
+<tspan x="10" y="1114">sted/hello.js</tspan>
+<tspan x="10" y="1130"> 46.  2017-04-18 02:24:42 +0000     3658 bytes  test/grunt.js</tspan>
+<tspan x="10" y="1146"> 47.  2017-04-18 02:24:42 +0000      176 bytes  test/test_files/empty.zip</tspan>
+<tspan x="10" y="1162"> 48.  2017-04-18 02:24:42 +0000       28 bytes  test/test_files/file.js</tspan>
+<tspan x="10" y="1178"> 49.  2017-04-18 02:24:42 +0000      234 bytes  test/test_files/file.zip</tspan>
+<tspan x="10" y="1194"> 50.  2017-04-18 02:24:42 +0000       29 bytes  test/test_files/file2.js</tspan>
+<tspan x="10" y="1210"> 51.  2017-04-18 02:24:42 +0000    84297 bytes  test/test_files/nested.zip</tspan>
+<tspan x="10" y="1226"> 52.  2017-04-18 02:24:42 +0000    12799 bytes  test/test_files/nested/glyphicons-halflings.png</tspan>
+<tspan x="10" y="1242"> 53.  2017-04-18 02:24:42 +0000        5 bytes  test/test_files/nested/hello.js</tspan>
+<tspan x="10" y="1258"> 54.  2017-04-18 02:24:42 +0000        8 bytes  test/test_files/nested/nested2/hello10.txt</tspan>
+<tspan x="10" y="1274"> 55.  2017-04-18 02:24:42 +0000        2 bytes  test/test_files/nested/nested2/hello20.js</tspan>
+<tspan x="10" y="1290"> 56.  2017-04-18 02:24:42 +0000        5 bytes  test/test_files/nested/world.txt</tspan>
+<tspan x="10" y="1306"> 57.  2017-04-18 02:24:42 +0000        0 bytes  test/test_files/permissioned-file</tspan>
+<tspan x="10" y="1322"> 58.  2017-04-18 02:24:42 +0000      184 bytes  test/test_files/permissioned.zip</tspan>
+<tspan x="10" y="1338"> 59.  2017-04-18 02:24:42 +0000       41 bytes  test/test_files/smile.gif</tspan>
+<tspan x="10" y="1354"> 60.  2017-04-18 02:24:42 +0000     3691 bytes  test/unzip_test.js</tspan>
+<tspan x="10" y="1370"> 61.  2017-04-18 02:24:42 +0000     1981 bytes  test/utils/fs.js</tspan>
+<tspan x="10" y="1386"> 62.  2017-04-18 02:24:42 +0000      678 bytes  test/utils/grunt.js</tspan>
+<tspan x="10" y="1402"> 63.  2017-04-18 02:24:42 +0000     3549 bytes  test/zip_test.js</tspan>
+</text>
+</svg>
